@@ -1,6 +1,7 @@
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=beworker&url=https://github.com/beworker/pinned-section-listview&title=pinned-section-listview&language=java&tags=github&category=software)
 
 Introduction
+pinned-section-listview GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ExpandListView
 ============
 
 Easy to use ListView with pinned sections for Android 2.1 and higher. Pinned section is a header view which sticks to the top
